@@ -1,0 +1,6 @@
+	   cmd
+	major minor		content
+
+login	1(1)	1 (uint8)		id(uint32)
+		11(uint8)		salt(string)
+		21(uint8)		
